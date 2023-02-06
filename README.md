@@ -25,5 +25,6 @@ Hey! I'm Marilyn Haber, a driven software developer with a passion for technolog
 ✨As the lead of a Google Developers Student Club, my mission is to empower students and help them embark on their own tech journeys!
 
 One of the quotes that I love 💫
+
 "People who are crazy enough to think they can change the world, are the ones who do" - Rob Siltanen
 
