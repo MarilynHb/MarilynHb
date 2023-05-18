@@ -28,3 +28,10 @@ One of the quotes that I love 💫
 
 "People who are crazy enough to think they can change the world, are the ones who do" - Rob Siltanen
 
+---
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarilynHb&layout=compact" />
+</a>
+<!---<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarilynHb&theme=transparent&show_icons=true&hide_border=true"/>
+--->
