@@ -16,17 +16,14 @@ Here are some ideas to get you started:
 -->
 Hey! I'm Marilyn Haber, a driven software developer with a passion for technology.
 
-💻 I kickstarted my career as a .NET developer at Logisoft, while still an undergraduate computer science student.
+💻 At **Logisoft**, where I work as a .NET developer, I focus on creating solutions that enhance efficiency and innovation in the freight management industry.
 
-🚢 Currently, I am crafting impactful solutions to enhance innovation and efficiency in the freight management industry.
+🚀 With a growth mindset, I continuously seek opportunities to expand my skills and and make meaningful contributions..
 
-🚀 I have a growth mindset and always seek new opportunities to expand my skills and make a difference in the world!
+🌟 Currently, I'm involved as a _**Beta Microsoft Learn Student Ambassador**_, where I engage with the tech community to support learning and growth.
 
-✨As the lead of a Google Developers Student Club, my mission is to empower students and help them embark on their own tech journeys!
+💫 I’m inspired by Rob Siltanen’s quote: **_"People who are crazy enough to think they can change the world, are the ones who do."_**
 
-One of the quotes that I love 💫
-
-"People who are crazy enough to think they can change the world, are the ones who do" - Rob Siltanen
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
