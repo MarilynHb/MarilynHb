@@ -1,4 +1,4 @@
-# Hi there! I'm Marilyn Haber 👋
+# Hi there! I'm Marilyn 👋
 
 ## About Me
 I'm a dedicated software developer with a passion for tech! I work as a .NET developer at _**Logisoft**_, where I focus on creating impactful solutions in the freight management industry. 
