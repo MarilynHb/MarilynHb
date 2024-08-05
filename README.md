@@ -3,7 +3,8 @@
 ## About Me
 I'm a dedicated software developer with a passion for tech! I work as a .NET developer at _**Logisoft**_, where I focus on creating impactful solutions in the freight management industry. 
 With a growth mindset, I continuously seek opportunities to expand my skills and and make meaningful contributions.🚀 Currently, I'm also a _**Microsoft Learn Student Ambassador**_, supporting and inspiring others in their tech journeys.
-I’m inspired by Rob Siltanen’s quote: **_"People who are crazy enough to think they can change the world, are the ones who do."_**
+
+I’m inspired by Rob Siltanen’s quote: **_"People who are crazy enough to think they can change the world, are the ones who do."_** 🌠
 
 ## Latest Blog Post
 
