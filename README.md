@@ -14,6 +14,7 @@ Check out my latest article: [Confession 0: My Degree Didn’t Make Me a Develop
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-8D8D8D?style=flat&logo=windows&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ---
 
 ## Contact
@@ -32,3 +33,9 @@ Check out my latest article: [Confession 0: My Degree Didn’t Make Me a Develop
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarilynHb&layout=compact" />
 </a>
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MarilynHb&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MarilynHb)](https://visitcount.itsvg.in)
