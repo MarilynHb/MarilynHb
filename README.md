@@ -13,7 +13,8 @@ Check out my latest article: [Confession 0: My Degree Didn’t Make Me a Develop
 ## Technologies and Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-8D8D8D?style=flat&logo=windows&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MSSQL-blue?style=flat)
+![WPF](https://img.shields.io/badge/WPF-8D8D8D?style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ---
 
