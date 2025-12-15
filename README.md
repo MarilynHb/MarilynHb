@@ -34,11 +34,3 @@ Check out my latest article: [Confession 0: My Degree Didn’t Make Me a Develop
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarilynHb&layout=compact" />
 </a>
-
-![](https://raw.githubusercontent.com/MarilynHb/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MarilynHb&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=MarilynHb)](https://visitcount.itsvg.in)
