@@ -23,10 +23,6 @@ Check out my latest article: [Confession 0: My Degree Didn’t Make Me a Develop
 - [Email](mailto:mh.marilynhaber@gmail.com)
 
 ## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarilynHb&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true" />
-</a>
-<br>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarilynHb" />
 </a>
